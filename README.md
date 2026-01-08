@@ -567,7 +567,7 @@ We're not looking for investors to scale fast. We're not seeking contributors to
 <a href="mailto:vikastiwari1045@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </td>
 <td align="center" width="33%">
-<img src="assets/team/om.jpeg" width="150" height="150" style="border-radius: 50%; border: 3px solid #FF6B6B;"/><br/>
+<img src="assets/team/om.jpeg" width="150" height="150" style="border-radius: 50%; border: 3px solid #47848F;"/><br/>
 <h3>Om Singh</h3>
 <i>Integration & Hardware</i><br/><br/>
 <b>Expertise:</b> AI/LLaMA, Arduino, Raspberry Pi, ESP32<br/><br/>
